@@ -25,8 +25,11 @@ KOKKULEPPED:
 
 ROLLIDE ROTATSIOON:
 Nädal 1: A=Tuuli B=Sirja C=Triin D=Jörgen
+
 Nädal 2: A=Jörgen B=Tuuli C=Sirja D=Triin
+
 Nädal 3: A=Triin B=Jörgen C=Tuuli D=Sirja
+
 Nädal 4: A=Sirja B=Triin C=Jörgen D=Tuuli
 
 ALLKIRJAD:  1. Nõus  2. Nõus
