@@ -8,8 +8,11 @@ LIIKMED:
 
 ÜHISED TÖÖRIISTAD:
 Suhtluskanal: Messenger (Google Workspace Chat)
+
 GitHub repo:  https://github.com/sirja-hass/urbanstyle-marketing-data?fbclid=IwY2xjawRd2DlleHRuA2FlbQIxMABicmlkETA3UmVDWDJCcW8xQnJ1bUgyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs7giM4HDSYCVScbzVD9A7jlNSFq2VdaW0P5xVat3akDcBWicJblC4WYDXQl_aem_fU68eQ2DwFA-K1bMs0VTng
-Supabase:     ___________________________
+
+Supabase:     https://supabase.com/dashboard/project/bofevhqnpvzimitimksx
+
 NotebookLM:   https://notebooklm.google.com/notebook/d6f81b0b-d11c-4c8a-a07d-b44491fdd885?fbclid=IwY2xjawRdyr1leHRuA2FlbQIxMABicmlkETA3UmVDWDJCcW8xQnJ1bUgyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqlqFgbn3LgxHmGLBMOubW0wFLpW_oG50v8zQyMoqY8ebLVM-iNT9l5toGSY_aem_ZKXPb8d74qt9lWVGsbH51g
 
 KOKKULEPPED:
