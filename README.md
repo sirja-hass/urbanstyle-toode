@@ -1,4 +1,4 @@
-# urbanstyle-marketing-data
+
 # UrbanStyle.ltd Marketing Data
    ## Meeskonnaliikmed
  
