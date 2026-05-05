@@ -1,9 +1,9 @@
 TEAM CHARTER — UrbanStyle - Marketing Data
 
 LIIKMED:
-1. Sirja Hass (OS: Mac)  Roll nädal 0: B
+1. Sirja Hass (OS: Mac)  Roll nädal 0: A
 2. Triin Kokmann (OS: Mac)  Roll nädal 1: C
-3. Tuuli Tamm (OS: Win)  Roll nädal 1: A
+3. Tuuli Tamm (OS: Win)  Roll nädal 1: B
 4. Jörgen Pukk (OS: Win)  Roll nädal 1: D
 
 ÜHISED TÖÖRIISTAD:
@@ -24,13 +24,13 @@ KOKKULEPPED:
    Meili teel, google drive, messenger.
 
 ROLLIDE ROTATSIOON:
-Nädal 1: Jörgen B=Tuuli C=Sirja D=Triin
+Nädal 1: Jörgen B=Sirja C=Tuuli D=Triin
 
-Nädal 2: A=Triin B=Jörgen C=Tuuli D=Sirja
+Nädal 2: A=Triin B=Jörgen C=Sirja D=Tuuli
 
-Nädal 3: A=Sirja B=Triin C=Jörgen D=Tuuli
+Nädal 3: A=Tuuli B=Triin C=Jörgen D=Sirja
 
-Nädal 4: A=Tuuli B=Sirja C=Triin D=Jörgen
+Nädal 4: A=Sirja B=Sirja C=Triin D=Jörgen
 
 ALLKIRJAD:  1. Nõus  2. Nõus
             3. Nõus  4. Nõus
