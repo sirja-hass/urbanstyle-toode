@@ -1,4 +1,4 @@
-TEAM CHARTER — UrbanStyle - Marketing Data
+TEAM CHARTER — UrbanStyle - Product Analytics
 
 LIIKMED:
 1. Sirja Hass (OS: Mac)  Roll nädal 0: A
@@ -19,7 +19,7 @@ KOKKULEPPED:
 1. Kuidas me üksteist aitame, kui keegi jääb kinni? 
    Küsime üksteise käest vajadusel abi ja aitame lahendust leida.
 2. Mis kell me kohtume väljaspool sessioone (kui üldse)? 
-   Olenevalt vajadusest, esialgu teisipäeviti kell 13.00.
+   Kolmapäeviti kell 15:00.
 3. Kuidas me jagame faile?
    Meili teel, google drive, messenger.
 
