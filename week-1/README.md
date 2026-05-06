@@ -14,3 +14,6 @@ Tuleb tegeleda duplikaatsete andmetega
 
 PUUDUVAD ANDMED:
 380 kliendil on e-mail puudu. 
+
+Meeskonna slaidid
+https://docs.google.com/presentation/d/1dy4WZY9-amFs1SLXhjyp3hn9sgC6R1XiVZKb0keOdTw/edit?slide=id.g3ddb8b9f226_0_140#slide=id.g3ddb8b9f226_0_140
